@@ -5,9 +5,7 @@ Projeto da matéria Banco de Dados (CC5232)
 # Integrantes 
 Andre Lourenco Marques 11.120.386-5
 
-Leonarno Martins 
-
-Henrique 
+Henrique Barros Simões 11.120.157-0
 
 
 # MER e MR

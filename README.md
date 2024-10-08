@@ -6,7 +6,8 @@
 
 [ ] Código desenvolvido para gerar dados aleatórios que serão inseridos nas tabelas, junto com o código para a inserção na tabela (cuidado para não colocar informações de acesso na entrega)
 
-[ ] Queries em SQL que resolvem os 20 itens da atividade de álgebra relacional
+[ ] Queries em SQL que resolvem os 20 itens da atividade de álgebra relacional 
+  https://moodle.fei.edu.br/mod/assign/view.php?id=23436
 
 [ ] O README.md deve conter os nomes e matrículas de todos os integrantes do grupo, a descrição de como executar o código entregue e exibir o diagrama relacional usado (pode ser através do link da imagem ou desenhado usando mermaid.js no próprio documento)
 

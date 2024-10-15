@@ -29,3 +29,6 @@ MER: https://www.figma.com/board/RHi1B2hA27uz9lCGhf0QYx/CC5232---MER?node-id=0-1
 MR: https://www.figma.com/board/uzeExwU1gve935m7hh9fCO/MR?node-id=0-1&node-type=canvas&t=EWwnOOYkDRqvokPS-0
 
 # Como rodar o código 
+
+  #Conexão pyhton - mysql: execute o seguinte código no terminal -> pip install mysql-connector-python Faker
+

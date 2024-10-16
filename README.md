@@ -30,5 +30,9 @@ MR: https://www.figma.com/board/uzeExwU1gve935m7hh9fCO/MR?node-id=0-1&node-type=
 
 # Como rodar o código 
 
-  #Conexão pyhton - mysql: execute o seguinte código no terminal -> pip install mysql-connector-python Faker
+  O arquivo "projeto.sql" contém o schema do banco junto com suas tabelas, basta pegar esse arquivo e abrir.
+
+  #Conexão pyhton e mysql: execute o seguinte código no terminal -> pip install mysql-connector-python Faker
+  # lembrete: você precisa ter o MySQL instalado no seu computador.
+  
 

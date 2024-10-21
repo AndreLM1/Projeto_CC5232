@@ -1,16 +1,3 @@
-[x]  Modelo Entidade Relacionamento
-
-[x] Modelo relacional na 3FN (Normalização)
-
-[x] Queries para a criação das tabelas necessárias
-
-[ ] Código desenvolvido para gerar dados aleatórios que serão inseridos nas tabelas, junto com o código para a inserção na tabela (cuidado para não colocar informações de acesso na entrega)
-
-[ ] Queries em SQL que resolvem os 20 itens da atividade de álgebra relacional 
-  https://moodle.fei.edu.br/mod/assign/view.php?id=23436
-
-[ ] O README.md deve conter os nomes e matrículas de todos os integrantes do grupo, a descrição de como executar o código entregue e exibir o diagrama relacional usado (pode ser através do link da imagem ou desenhado usando mermaid.js no próprio documento)
-
 # Projeto_CC5232
 Projeto da matéria Banco de Dados (CC5232)
 
@@ -30,9 +17,17 @@ MR: https://www.figma.com/board/uzeExwU1gve935m7hh9fCO/MR?node-id=0-1&node-type=
 
 # Como rodar o código 
 
-  O arquivo "projeto.sql" contém o schema do banco junto com suas tabelas, basta pegar esse arquivo e abrir.
+  - O arquivo query_project.sql contém todas as queries necessárias para a construção do projeto.
+  - O arquivo algebra_relacional.sql contém todas as queries necessárias para tratar as questões de algebra relacional do projeto 
+  - O arquivo random_values.py contém o código para a geração e inserção de dados aleatórios.
 
-  #Conexão pyhton e mysql: execute o seguinte código no terminal -> pip install mysql-connector-python Faker
-  # lembrete: você precisa ter o MySQL instalado no seu computador.
+    1° Crie um novo schema no seu banco de dados, importe os arquivos "query_project.sql" e "algebra_relacional.sql" dentro do seu banco, execute as queries do arquivo "query_project.sql"
+
+    2° Para a inserção dos dados aleatórios:
+      - Importe o arquivo random_values.py no seu software interpretador de python 
+      - Para a conexão pyhton e mysql: execute o seguinte código no terminal do windows -> pip install mysql-connector-python Faker
+      - Execute o arquivo random_values.py
+
+    3° Volte para o banco de dados e execute as queries do arquivo "algebra_relacional.sql"
   
 

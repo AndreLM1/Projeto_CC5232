@@ -10,10 +10,15 @@ Henrique Barros Simões - 11.120.157-0
 Leonardo Martins Qualharello - 11.120.470-7
 
 
-# MER e MR
-MER: https://www.figma.com/board/RHi1B2hA27uz9lCGhf0QYx/CC5232---MER?node-id=0-1&node-type=canvas&t=WMnZfb0lVYbvYWYu-0
 
-MR: https://www.figma.com/board/uzeExwU1gve935m7hh9fCO/MR?node-id=0-1&node-type=canvas&t=EWwnOOYkDRqvokPS-0
+
+# Modelo Entidade-Relacional
+
+![Modelo Entidade-Relacional](CC5232-MER.png)
+
+# Modelo Relacional
+
+![Modelo Relacional](MR.png)
 
 # Como rodar o código 
 

@@ -22,8 +22,8 @@ MR: https://www.figma.com/board/uzeExwU1gve935m7hh9fCO/MR?node-id=0-1&node-type=
   - O arquivo random_values.py contém o código para a geração e inserção de dados aleatórios.
 
     1° Importe os arquivos "query_project.sql" e "algebra_relacional.sql" dentro do seu banco, execute os comandos:
-       - CREATE DATABASE  IF NOT EXISTS `project_` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-       - USE `project_`;''
+       - CREATE DATABASE  IF NOT EXISTS `project_spotify` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+       - USE `project_spotify`;''
        - Esses códigos estão no arquivo "query_project.sql", e são responsáveis para criar um novo database.
 
     2° Para a inserção dos dados aleatórios:

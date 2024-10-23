@@ -33,7 +33,7 @@ Leonardo Martins Qualharello - 11.120.470-7
 
     2° Para a inserção dos dados aleatórios:
       - Execute o seguinte código no terminal do windows: pip install faker
-      - Importe o arquivo conecta.py no seu software interpretador de python 
+      - Importe o arquivo conecta.py no vscode
       - Execute o arquivo conecta.py
       - Irá gerar um arquivo chamado seeder.sql no próprio vscode
       - Importe o arquivo seeder.sql no banco de dados e execute as queries de inserção

@@ -24,7 +24,7 @@ Leonardo Martins Qualharello - 11.120.470-7
 
   - O arquivo query_project.sql contém todas as queries necessárias para a construção do projeto.
   - O arquivo algebra_relacional.sql contém todas as queries necessárias para tratar as questões de algebra relacional do projeto 
-  - O arquivo random_values.py contém o código para a geração e inserção de dados aleatórios.
+  - O arquivo conecta.py contém o código para a geração de dados aleatórios.
 
     1° Importe os arquivos "query_project.sql" e "algebra_relacional.sql" dentro do seu banco, execute os comandos:
        - CREATE DATABASE  IF NOT EXISTS `project_spotify`;
@@ -32,9 +32,11 @@ Leonardo Martins Qualharello - 11.120.470-7
        - Esses códigos estão no arquivo "query_project.sql", e são responsáveis para criar um novo database.
 
     2° Para a inserção dos dados aleatórios:
-      - Importe o arquivo random_values.py no seu software interpretador de python 
-      - Para a conexão pyhton e mysql: execute o seguinte código no terminal do windows -> pip install mysql-connector-python Faker
-      - Execute o arquivo random_values.py
+      - Execute o seguinte código no terminal do windows: pip install faker
+      - Importe o arquivo conecta.py no seu software interpretador de python 
+      - Execute o arquivo conecta.py
+      - Irá gerar um arquivo chamado seeder.sql no próprio vscode
+      - Importe o arquivo seeder.sql no banco de dados e execute as queries de inserção
 
     3° Volte para o banco de dados e execute as queries do arquivo "algebra_relacional.sql"
   

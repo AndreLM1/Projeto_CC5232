@@ -1,3 +1,5 @@
+use project_spotify;
+
 INSERT INTO ARTISTA (Nome, Data_Nascimento) VALUES ('Ana Julia Sampaio', '1990-06-19');
 INSERT INTO ARTISTA (Nome, Data_Nascimento) VALUES ('Nicolas Ribeiro', '1946-02-09');
 INSERT INTO ARTISTA (Nome, Data_Nascimento) VALUES ('Sra. Valentina Porto', '2015-08-19');

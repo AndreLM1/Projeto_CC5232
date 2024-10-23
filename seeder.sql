@@ -1,4 +1,4 @@
-use project_spotify;
+USE `project_spotify`;
 
 INSERT INTO ARTISTA (Nome, Data_Nascimento) VALUES ('Ana Julia Sampaio', '1990-06-19');
 INSERT INTO ARTISTA (Nome, Data_Nascimento) VALUES ('Nicolas Ribeiro', '1946-02-09');
